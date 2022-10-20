@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "code": 200,
+  "data": {
+    "user": {
+      "id": "099a4a36-9990-4fdb-a9e1-10bf3dc30932",
+      "username": "MAXUSER700D",
+      "email": "jon.west@oddball.io",
+      "firstName": "John",
+      "middleName": "",
+      "lastName": "DOE",
+      "suffix": null,
+      "dateOfBirth": null,
+      "ssn": null,
+      "city": null,
+      "state": null,
+      "addressLine1": null,
+      "addressLine2": null,
+      "zipcode": null,
+      "zipcodeExtension": null,
+      "phoneNumber": null,
+      "challenges": [
+        {
+          "question": "What is the name of the first street you lived on?"
+        }
+      ],
+      "webBrokerInfo": null,
+      "isManuallyDisabled": false,
+      "requiresConfirm": null,
+      "loa": 0,
+      "loaAdminReason": null,
+      "lastLoginTime": 1640291091,
+      "createdTime": 1615409286,
+      "updatedTime": 1640291092,
+      "hicn": "MBP000700A",
+      "passwordExpirationTime": 1703363091,
+      "isDisabled": false,
+      "customUserInfo": {
+        "mbi": "7TT0T00TT00"
+      },
+      "bedapBeneKey": "999990268",
+      "normalizedEmail": null,
+      "mbi": "7TT0T00TT00"
+    }
+  }
+}

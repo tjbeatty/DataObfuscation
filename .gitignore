@@ -1,0 +1,23 @@
+**/debug.log
+**/__pycache__
+.env
+.venv
+*.logs
+logs
+results/*
+!results/example_obfuscated_data.csv
+
+# Process/Locks
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE
+.idea
+*.iml
+
+# Ops
+.terraform*
+terraform.tfstate*
+.DS_Store
